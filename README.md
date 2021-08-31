@@ -1,4 +1,4 @@
-# sistemasproductivos
+# Sistemas productivos preponderantes
 Determinación de sistemas productivos preponderantes usando tecnicas de clustering
 
 ## Paquetes necesarios
